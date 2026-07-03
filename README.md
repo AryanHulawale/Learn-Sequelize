@@ -27,7 +27,7 @@ Learn-Sequelize/
 - Defining models and schemas
 - Database migrations and seeders
 - Performing CRUD operations
-- Associations between models (upcoming)
+- Associations between models
 
 ## Getting Started
 
